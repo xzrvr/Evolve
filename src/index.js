@@ -1413,7 +1413,8 @@ export function index(){
                 <h1>
                     <span class="has-text-warning">${egg15.length > 0 ? `Ev${egg15}lve` : `Evolve`}</span>
                     by
-                    <span class="has-text-success">Demagorddon</span>
+                    <span class="has-text-success">Demagorddon; </span>
+                    hosted by xzrvr
                 </h1>
             </span>
             <span class="right">
