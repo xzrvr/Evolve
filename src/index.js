@@ -1411,9 +1411,9 @@ export function index(){
         <div class="promoBar">
             <span class="left">
                 <h1>
-                    <span class="has-text-warning">${egg15.length > 0 ? `Ev${egg15}lve` : `Evolve`}</span>
+                    <span class="has-text-warning">${egg15.length > 0 ? `Hos${egg15}sted` : `Hosted`}</span>
                     by
-                    <span class="has-text-success">Demagorddon; hosted by xzrvr</span>
+                    <span class="has-text-success">xzrvr</span>
                 </h1>
             </span>
             <span class="right">
