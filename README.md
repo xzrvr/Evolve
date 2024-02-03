@@ -2,7 +2,7 @@
 
 ## Play
 
-https://pmotschmann.github.io/Evolve/
+https://evolve.xzrvr.dev/
 
 ## About
 
